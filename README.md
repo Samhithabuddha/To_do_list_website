@@ -28,7 +28,7 @@ JavaScript – Application logic and interactivity
 
 LocalStorage – Client-side data persistence
 
-## 🏗️ **PROJECT ARCHITECTURE**
+## 🏗️ **Project Architecture**
 
 HTML handles page structure and input elements
 
