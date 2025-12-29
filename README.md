@@ -40,7 +40,8 @@ JavaScript controls task operations and local storage management
 
 to-do-list/
 
-```│── index.html
+```
+│── index.html
 │── style.css
 │── script.js
 │── README.md
